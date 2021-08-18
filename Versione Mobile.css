@@ -1,0 +1,76 @@
+#navbar .container h1 {
+     text-align:center;
+     margin-right: 1rem;
+}
+
+
+#showcase-2 .container .section-text {
+    text-align: center;
+}
+
+#showcase-3 {
+    flex-direction: column;
+}
+
+.lorem {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+
+#showcase-2 .container .image {
+    display: flex;
+    flex: 0.3;
+}
+
+/* ABOUT STILE CELLULARE */
+
+#about-info .container {
+     text-align: center;
+    flex-direction: column;
+    padding-bottom: 4rem;
+}
+
+.pippo{
+    display: flex;
+    margin-left: 3rem
+
+}
+
+
+#testimonials {
+    padding-bottom:100px;
+}
+
+
+#testimonials .testimonial img {
+    width: 100px;
+    height: 100px;
+    margin-right: 1rem;
+}
+
+#testimonials  {
+    padding-bottom: 200px;
+}
+
+#testimonials .testimonial {
+    padding: 1.2rem;
+    margin-bottom: 3rem;
+    border-radius: 5px;
+    opacity: 0.9;
+    background: orange;
+    margin-left: 0.5em;
+    margin-right: 0.5rem;
+    display: flex;
+    text-align:justify;
+   justify-content: center;
+   
+}
+
+
+/* CONTACT STILE CELLULARE */
+
+.info-box {
+    transform: scale(0.7);
+}
